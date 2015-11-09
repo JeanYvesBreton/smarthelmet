@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Exploration of different motorcycle smart helmet technologies on the pi 2",
   "scripts": {
-    "bluetooth": "BTtest.js",
+    "bluetooth": "node BTtest.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jean-Yves Breton",
